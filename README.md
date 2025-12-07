@@ -4,6 +4,6 @@ During my local Jira installation tests, I needed a database to complete the Jir
 
 
 ```bash
-chmod +x setup_jira_pg.sh
-./setup_jira_pg.sh
+chmod +x setup/setup_jira_pg.sh
+./setup/setup_jira_pg.sh
 ```
